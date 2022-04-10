@@ -27,36 +27,47 @@ Also please see th following
 In this visualization the  graph the length of time that bikes are checked out for all riders.
 
 
-2)Bike usage breakdown by gender
+2)Bike usage breakdown by gender.
+
 ![](resources/Gender breakdown.png)
 
 In this visualization the pie chart shows the usage of bikes by for each gender.
 
-3) Usage time by gender
+3) Usage time by gender.
+
 ![](resources/time by gender.png)
 
 In this visualization the graph the length of time that bikes are checked out for each gender.
 
-4) Top starting locations
+4) Top starting locations.
+
 ![](resources/top starting locations.png)
+
 In this map you can see the top pick stations in NYC.
 
 
-5) Trip by gender by weekday
+5) Trip by gender by weekday.
+
 ![](resources/trip by gender by weekday.png)
+
 In this picture you can see the heatmap of daily usage for each gender for each hour during each day of the week 
 
-6) Heatmap of usage
+6) Heatmap of usage.
+
 ![](resources/user trips by gender by weekdays.PNG)
 In this visualization, you'll see a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype.
 
-7) Trip by weekday
+7) Trip by weekday.
+
 ![](resources/trip by weekday.png)
+
 In this visualization, you’ll see the number of bike trips by weekday for each hour of the day as a heatmap.
 
 
-8) The story
+8) The story.
+
 ![](resources/NYC Bikers story.png)
+
 This image brings it all together to crate astory line of th bike usage by weekday, by gender, top starting points, checkout times
 
 
